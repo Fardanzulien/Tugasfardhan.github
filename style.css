@@ -1,0 +1,95 @@
+*,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 9%;
+  height: 20%;
+}
+
+.td-1 {
+  background-repeat: no-repeat;
+  background-image: url(masmur.jpg);
+  width: 86pc;
+}
+
+.td-2 {
+  background-color: yellow;
+  padding: 5px;
+  height: 30px;
+  width: 21pc;
+}
+
+a {
+  color: #555;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.td-3 {
+  text-align: center;
+  height: 22pc;
+  width: 21.2pc;
+}
+
+.td-4 {
+  width: 21.2pc;
+}
+
+.td-5 {
+  width: 42.5pc;
+}
+
+.p1 {
+  margin-bottom: 6%;
+}
+
+.p2 {
+  margin-bottom: 6%;
+}
+
+.p3 {
+  margin-top: 2px;
+}
+
+.td-6 {
+  width: 20pc;
+}
+
+.wrapping-box {
+  border-top: #2c2c2c;
+  background-color: #c0c0c0;
+  height: 40px;
+  border: solid 1px #2c2c2c;
+}
+
+h4 {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ol {
+  position: absolute;
+  top: 240px;
+  left: 68pc;
+}
+
+.ul {
+  top: 26pc;
+  left: 55.4pc;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 15%;
+}
+
+.line {
+  top: 24pc;
+  position: absolute;
+  width: 25%;
+  border: solid 1px #2c2c2c;
+}
